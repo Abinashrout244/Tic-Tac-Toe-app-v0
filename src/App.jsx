@@ -1,7 +1,7 @@
 import Tictactoe from "./components/Tictactoe";
 function App() {
   return (
-    <div className="text-center justify-centerS pt--5 md:pt-10">
+    <div className="text-center justify-centerS pt-12 md:pt-10">
       <Tictactoe />
     </div>
   );
